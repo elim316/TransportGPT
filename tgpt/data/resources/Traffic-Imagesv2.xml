@@ -1,0 +1,1659 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xml:base="http://datamall2.mytransport.sg/ltaodataservice">
+    <id>http://schemas.datacontract.org/2004/07/</id>
+    <title />
+    <updated>2020-4-14T2:58:53Z</updated>
+    <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2" />
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1001</d:CameraID>
+                <d:Latitude>1.29531332</d:Latitude>
+                <d:Longitude>103.871146</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1001_1053_20200414105755_4fff9e.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833375&Signature=sQoqzphXiQChgAeU9gOmWc5mE9E%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1002</d:CameraID>
+                <d:Latitude>1.319541067</d:Latitude>
+                <d:Longitude>103.8785627</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1002_1053_20200414105755_fd79bc.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833375&Signature=l%2BVqkFB9Sguz%2BvuN6SzhoCnpCOI%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1003</d:CameraID>
+                <d:Latitude>1.323957439</d:Latitude>
+                <d:Longitude>103.8728576</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1003_1053_20200414105754_1524d3.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833374&Signature=IJEst95eJWAxc91zeawZF%2FamEio%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1004</d:CameraID>
+                <d:Latitude>1.319535712</d:Latitude>
+                <d:Longitude>103.8750668</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1004_1053_20200414105754_b53e62.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833374&Signature=hVAPVAc2RbKCpko1TyP30zvxSWY%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1005</d:CameraID>
+                <d:Latitude>1.363519886</d:Latitude>
+                <d:Longitude>103.905394</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1005_1053_20200414105754_ec3b7a.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833374&Signature=gehzJQDYoZ3dv3GRQXiR0Qo9Psc%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1006</d:CameraID>
+                <d:Latitude>1.357098686</d:Latitude>
+                <d:Longitude>103.902042</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1006_1053_20200414105753_455a2b.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833374&Signature=8IvXFfcVquYRT5klCQLvoteLozc%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1501</d:CameraID>
+                <d:Latitude>1.27414394350065</d:Latitude>
+                <d:Longitude>103.851316802547</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1501_1053_20200414105755_454e41.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833375&Signature=f4e5CB5t3yg7i8JvEEDTyJJAVUI%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1502</d:CameraID>
+                <d:Latitude>1.27135090682664</d:Latitude>
+                <d:Longitude>103.861828440597</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1502_1053_20200414105755_c1850d.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833375&Signature=iZmyc7Y30CcYSFZPGs9WhNxXp94%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1503</d:CameraID>
+                <d:Latitude>1.27066408655104</d:Latitude>
+                <d:Longitude>103.856977943394</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1503_1053_20200414105755_6994ef.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833375&Signature=Hrpsv8BNdRfAsu%2BJ8MEbXI7OCvA%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1504</d:CameraID>
+                <d:Latitude>1.29409891409364</d:Latitude>
+                <d:Longitude>103.876056196568</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1504_1048_20200414105754_dddb37.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833375&Signature=iWzocuJJGHxGJ%2FwheHgj7gfx5HE%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1505</d:CameraID>
+                <d:Latitude>1.2752977149006</d:Latitude>
+                <d:Longitude>103.866390381759</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1505_1048_20200414105754_6737ba.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833374&Signature=Fzx2MkdzTdLGpvflK5xOXWwIO74%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1701</d:CameraID>
+                <d:Latitude>1.323604823</d:Latitude>
+                <d:Longitude>103.8587802</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1701_1054_20200414105656_80efd7.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833317&Signature=RMtXqol7ZPdF1LklcM5EuF7TygU%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1702</d:CameraID>
+                <d:Latitude>1.34355015</d:Latitude>
+                <d:Longitude>103.8601984</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1702_1054_20200414105654_d56acb.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833315&Signature=f3KfAY3cRbqx89NsVciekai0s3U%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1703</d:CameraID>
+                <d:Latitude>1.32814722194857</d:Latitude>
+                <d:Longitude>103.862203282048</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1703_1054_20200414105653_540ee1.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833313&Signature=DJ8mkL9d1Xf%2FEtAo%2BH14P1f4hxU%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1704</d:CameraID>
+                <d:Latitude>1.28569398886979</d:Latitude>
+                <d:Longitude>103.837524510188</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1704_1054_20200414105651_0644b7.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833311&Signature=68FMcoYP52pCVpHQjVD9xOgCUho%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1705</d:CameraID>
+                <d:Latitude>1.375925022</d:Latitude>
+                <d:Longitude>103.8587986</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1705_1054_20200414105650_cf70a2.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833311&Signature=0otTPrQyRIC7jHONggE5RniWeWI%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1706</d:CameraID>
+                <d:Latitude>1.38861</d:Latitude>
+                <d:Longitude>103.85806</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1706_1054_20200414105648_c8e539.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833309&Signature=UDtql7N4wJs1RYDMz8EftleWZPE%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1707</d:CameraID>
+                <d:Latitude>1.28036584335876</d:Latitude>
+                <d:Longitude>103.830451146503</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1707_1054_20200414105646_b78f6d.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833307&Signature=91LjyBCvUilZhEvwsgTewWPR90s%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1709</d:CameraID>
+                <d:Latitude>1.31384231654635</d:Latitude>
+                <d:Longitude>103.845603032574</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1709_1054_20200414105643_a9841d.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833304&Signature=D7TzOxEt6gCtMTowbsmuWP2TxV8%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>1711</d:CameraID>
+                <d:Latitude>1.35296</d:Latitude>
+                <d:Longitude>103.85719</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/1711_1054_20200414105633_a3d783.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833293&Signature=uvtyEnYrGLIkk0HoV60nEIyi8N8%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>2701</d:CameraID>
+                <d:Latitude>1.447023728</d:Latitude>
+                <d:Longitude>103.7716543</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/2701_1054_20200414105712_0a0426.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833333&Signature=TMVB6tpXh70DXoFDuwj1Olmq580%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>2702</d:CameraID>
+                <d:Latitude>1.445554109</d:Latitude>
+                <d:Longitude>103.7683397</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/2702_1053_20200414105708_3e78b0.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833332&Signature=5U7MLzK2qEUbhmZIk5S7QsQPgVo%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>2703</d:CameraID>
+                <d:Latitude>1.35047790791386</d:Latitude>
+                <d:Longitude>103.791033581325</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/2703_1053_20200414105703_b6e544.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833328&Signature=qmt3J4wftrdGQ8JTULuyLKbDY%2Fs%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>2704</d:CameraID>
+                <d:Latitude>1.429588536</d:Latitude>
+                <d:Longitude>103.769311</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/2704_1054_20200414105659_c6fb83.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833323&Signature=1ETzTedpZTPydV7ifUtexkmHr5A%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>2705</d:CameraID>
+                <d:Latitude>1.36728572</d:Latitude>
+                <d:Longitude>103.7794698</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/2705_1054_20200414105657_ceb4d1.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833319&Signature=B4BREa4sTViyN7iAbiI4R2BoXdY%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>2706</d:CameraID>
+                <d:Latitude>1.414142</d:Latitude>
+                <d:Longitude>103.771168</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/2706_1054_20200414105655_0085e9.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833316&Signature=FW%2BZCJqlRKLhpYtp7suZ%2FVmCny0%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>2707</d:CameraID>
+                <d:Latitude>1.3983</d:Latitude>
+                <d:Longitude>103.774247</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/2707_1053_20200414105653_bf938b.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833314&Signature=h3CuIgZ7afoP%2FEEHWWT97gsCW1Y%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>2708</d:CameraID>
+                <d:Latitude>1.3865</d:Latitude>
+                <d:Longitude>103.7747</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/2708_1054_20200414105651_15b524.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833313&Signature=HxtSI%2B9MKGZUqq3m8iI%2Boj7Hyb0%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>3702</d:CameraID>
+                <d:Latitude>1.33831</d:Latitude>
+                <d:Longitude>103.98032</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/3702_1054_20200414105724_bd2cb0.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833346&Signature=JwehvgbcS9R6p2jeYew%2FRNmPqL0%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>3704</d:CameraID>
+                <d:Latitude>1.2958550156561</d:Latitude>
+                <d:Longitude>103.880314665981</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/3704_1053_20200414105717_8a9707.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833340&Signature=hBepdEh%2Fq2lgvFkorOj82GVdvi8%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>3705</d:CameraID>
+                <d:Latitude>1.32743</d:Latitude>
+                <d:Longitude>103.97383</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/3705_1054_20200414105713_193621.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833334&Signature=%2Blq%2BTND8q9msiwVliFFyfMrNanY%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>3793</d:CameraID>
+                <d:Latitude>1.309330837</d:Latitude>
+                <d:Longitude>103.9350504</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/3793_1054_20200414105610_bd9ed2.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833273&Signature=H2tQLPxm6u0LfeW3jiC9UNrQVqk%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>3795</d:CameraID>
+                <d:Latitude>1.30145145166066</d:Latitude>
+                <d:Longitude>103.910596320237</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/3795_1054_20200414105607_fc165c.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833269&Signature=l1z2nYppce1Lqa%2BzekERta7uBKc%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>3796</d:CameraID>
+                <d:Latitude>1.297512569</d:Latitude>
+                <d:Longitude>103.8983019</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/3796_1054_20200414105606_cd358b.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833267&Signature=yyHGZGoJA6KLPEg2ZIGvNDWZFuM%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>3797</d:CameraID>
+                <d:Latitude>1.29565733262976</d:Latitude>
+                <d:Longitude>103.885283049309</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/3797_1054_20200414105602_055b14.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833266&Signature=zufZCbhWkpr4TMRmi2aUjj7XIxk%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>3798</d:CameraID>
+                <d:Latitude>1.29158484</d:Latitude>
+                <d:Longitude>103.8615987</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/3798_1054_20200414105600_5c1812.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833262&Signature=QlibYdM8Ti01kXmJKpA0Ktx2Pmg%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4701</d:CameraID>
+                <d:Latitude>1.2871</d:Latitude>
+                <d:Longitude>103.79633</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4701_1054_20200414105733_cee134.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833355&Signature=srDjSHkxj8roaVKAdVfCaTyw%2BeM%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4702</d:CameraID>
+                <d:Latitude>1.27237</d:Latitude>
+                <d:Longitude>103.8324</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4702_1054_20200414105732_aeb500.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833353&Signature=vr3g5uo1uVTIsdrOmh1hie9zVsY%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4703</d:CameraID>
+                <d:Latitude>1.348697862</d:Latitude>
+                <d:Longitude>103.6350413</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4703_1054_20200414105731_3cc26a.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833352&Signature=zy9HC77n7I3RMGvdKGV2U1Y0Clk%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4704</d:CameraID>
+                <d:Latitude>1.27877</d:Latitude>
+                <d:Longitude>103.82375</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4704_1054_20200414105729_71844d.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833351&Signature=pspyU2cjO1Jq9r1pCeBfRWRszdA%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4705</d:CameraID>
+                <d:Latitude>1.32618</d:Latitude>
+                <d:Longitude>103.73028</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4705_1054_20200414105728_575b64.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833349&Signature=GJMDuIDFkXfFpNb8J3S%2BA7hYcFY%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4706</d:CameraID>
+                <d:Latitude>1.29792</d:Latitude>
+                <d:Longitude>103.78205</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4706_1054_20200414105726_7f538b.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833348&Signature=jSwCZ5pOR10%2Fol%2FQ4AUKvKlKFmI%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4707</d:CameraID>
+                <d:Latitude>1.33344648135658</d:Latitude>
+                <d:Longitude>103.652700847056</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4707_1054_20200414105722_7e163e.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833344&Signature=jut%2Bh8Km3sIILuW3TLdoJdmQyS8%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4708</d:CameraID>
+                <d:Latitude>1.29939</d:Latitude>
+                <d:Longitude>103.7799</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4708_1054_20200414105720_b9f72b.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833342&Signature=niyUn%2FPzM9VXiiPnLj46%2FuT1EEI%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4709</d:CameraID>
+                <d:Latitude>1.312019</d:Latitude>
+                <d:Longitude>103.763002</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4709_1054_20200414105714_ce6dec.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833337&Signature=cDZqscBLi1sgFElZdvgSAKNh5SM%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4710</d:CameraID>
+                <d:Latitude>1.32153</d:Latitude>
+                <d:Longitude>103.75273</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4710_1054_20200414105640_a9a9ab.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833302&Signature=s5JC37UAbW4mtXv98bCLx0OaPAg%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4712</d:CameraID>
+                <d:Latitude>1.341244001</d:Latitude>
+                <d:Longitude>103.6439134</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4712_1053_20200414105638_a1ad78.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833300&Signature=5P9QwhymQojnuPWYdGenMizTEtY%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4713</d:CameraID>
+                <d:Latitude>1.347645829</d:Latitude>
+                <d:Longitude>103.6366955</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4713_1054_20200414105637_d394fa.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833298&Signature=LBYv7qwqmldGGvpgJCtU3di8wIk%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4714</d:CameraID>
+                <d:Latitude>1.31023</d:Latitude>
+                <d:Longitude>103.76438</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4714_1053_20200414105634_eeb2a9.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833297&Signature=BSIqAh7moFRHM90dgRYV8%2B8FsBg%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4716</d:CameraID>
+                <d:Latitude>1.32227</d:Latitude>
+                <d:Longitude>103.67453</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4716_1054_20200414105633_cd43ab.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833294&Signature=EJWkSRPDHu8x7RGzwdAtNceYY%2FE%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4798</d:CameraID>
+                <d:Latitude>1.25999999687243</d:Latitude>
+                <d:Longitude>103.823611110166</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4798_1054_20200414105610_663e7e.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833270&Signature=85xBSFMlXW%2Fzj8SwJPjvamdHFSY%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>4799</d:CameraID>
+                <d:Latitude>1.26027777363278</d:Latitude>
+                <d:Longitude>103.823888890049</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/4799_1054_20200414105609_3da85d.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833270&Signature=DCQyVQ2G6xqpMfWbUROofR6anUI%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>5794</d:CameraID>
+                <d:Latitude>1.3309693</d:Latitude>
+                <d:Longitude>103.9168616</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/5794_1054_20200414105619_dc1e0c.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833281&Signature=yl7bM0rkech2TI9JwURaGFzBj8A%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>5795</d:CameraID>
+                <d:Latitude>1.326024822</d:Latitude>
+                <d:Longitude>103.905625</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/5795_1053_20200414105618_e3513f.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833279&Signature=5GonHwmHHqihpKDkulI8mkjI1fw%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>5797</d:CameraID>
+                <d:Latitude>1.322875288</d:Latitude>
+                <d:Longitude>103.8910793</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/5797_1054_20200414105617_db4f81.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833278&Signature=rBpHTEGMEmZdwRXs5f0%2FpiZZ5Do%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>5798</d:CameraID>
+                <d:Latitude>1.32036078126842</d:Latitude>
+                <d:Longitude>103.877174116489</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/5798_1053_20200414105614_03ad80.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833277&Signature=%2FUGRrHmYtaALmRTdcx1Q4fHv0hQ%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>5799</d:CameraID>
+                <d:Latitude>1.328171608</d:Latitude>
+                <d:Longitude>103.8685191</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/5799_1053_20200414105613_318e9f.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833274&Signature=si5WOKmTwFuNgmX%2FlGZFVCBp1ho%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6701</d:CameraID>
+                <d:Latitude>1.329334</d:Latitude>
+                <d:Longitude>103.858222</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6701_1054_20200414105738_c6c233.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833359&Signature=O9w01v9u02FSCWeozPmG3dkBofY%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6703</d:CameraID>
+                <d:Latitude>1.328899</d:Latitude>
+                <d:Longitude>103.84121</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6703_1054_20200414105738_a5ed17.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833358&Signature=54O%2FoVFzG3ZWWteT%2BORW%2FHfYLYQ%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6704</d:CameraID>
+                <d:Latitude>1.32657403632366</d:Latitude>
+                <d:Longitude>103.826857295633</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6704_1054_20200414105737_a477a6.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833358&Signature=1EBJcgKfQipCph6Jfremb5mj8Bk%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6705</d:CameraID>
+                <d:Latitude>1.332124</d:Latitude>
+                <d:Longitude>103.81768</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6705_1054_20200414105736_459ee7.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833357&Signature=yTICLIQzfGRz8Zb9wdu35W96CYo%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6706</d:CameraID>
+                <d:Latitude>1.349428893</d:Latitude>
+                <d:Longitude>103.7952799</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6706_1054_20200414105736_582fc3.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833356&Signature=l%2B86w5j96HVoEpy%2FQ9%2BjE6RLGxk%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6708</d:CameraID>
+                <d:Latitude>1.345996</d:Latitude>
+                <d:Longitude>103.69016</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6708_1054_20200414105735_d901fc.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833356&Signature=J%2BSF76iCcYCEpaGlgXFo5gyqvAE%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6710</d:CameraID>
+                <d:Latitude>1.344205</d:Latitude>
+                <d:Longitude>103.78577</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6710_1054_20200414105649_fca470.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833310&Signature=Z7moS7jDesJUMpRfBE%2FFyB6VxXg%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6711</d:CameraID>
+                <d:Latitude>1.33771</d:Latitude>
+                <d:Longitude>103.977827</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6711_1053_20200414105647_2342f9.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833308&Signature=vweruN4F4R2k2qEU%2FwWwmyAMUp0%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6712</d:CameraID>
+                <d:Latitude>1.332691</d:Latitude>
+                <d:Longitude>103.770278</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6712_1054_20200414105646_428d02.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833306&Signature=qrDgEuIFLlqbBlWwjUjvXiEB4kc%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6713</d:CameraID>
+                <d:Latitude>1.340298</d:Latitude>
+                <d:Longitude>103.945652</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6713_1054_20200414105644_4f5303.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833306&Signature=h95hM5UnxmH8QOTsm4KyRwLSd3I%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6714</d:CameraID>
+                <d:Latitude>1.361742</d:Latitude>
+                <d:Longitude>103.703341</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6714_1151_20200414105643_b3ef15.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833303&Signature=jVnwHLStnwRkF7YaRWhHQoT%2Br9Q%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6715</d:CameraID>
+                <d:Latitude>1.356299</d:Latitude>
+                <d:Longitude>103.716071</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6715_1054_20200414105642_b0baac.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833303&Signature=%2FbmcihFWE%2FxOxE3IfLkTD34yzo4%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>6716</d:CameraID>
+                <d:Latitude>1.322893</d:Latitude>
+                <d:Longitude>103.6635051</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/6716_1054_20200414105642_893cb5.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833302&Signature=cd1m2n07gyw52gDwQjr9jvlFLNk%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>7791</d:CameraID>
+                <d:Latitude>1.354245</d:Latitude>
+                <d:Longitude>103.963782</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/7791_1054_20200414105631_8263fa.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833293&Signature=qic1NCQLA9gi%2Ft%2BuakZht8F2SXI%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>7793</d:CameraID>
+                <d:Latitude>1.37704704</d:Latitude>
+                <d:Longitude>103.92946983</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/7793_1054_20200414105629_08d7f9.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833291&Signature=EzWhTPklMUiR4FovJHc7VDv%2FcnY%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>7794</d:CameraID>
+                <d:Latitude>1.37988658</d:Latitude>
+                <d:Longitude>103.92009174</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/7794_1054_20200414105628_036ba5.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833289&Signature=brfPRh5BlxHwUt3lPW8qK3RwHnk%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>7795</d:CameraID>
+                <d:Latitude>1.38432741</d:Latitude>
+                <d:Longitude>103.91585701</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/7795_1054_20200414105626_644309.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833288&Signature=S%2BERPH14dvor93hmMJUWHkPLfl4%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>7796</d:CameraID>
+                <d:Latitude>1.39559294</d:Latitude>
+                <d:Longitude>103.90515712</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/7796_1054_20200414105625_b1381b.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833286&Signature=396zG3KNA3ZhboC1jY9bGp2Uno4%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>7797</d:CameraID>
+                <d:Latitude>1.40002575</d:Latitude>
+                <d:Longitude>103.85702534</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/7797_1054_20200414105623_e4dd34.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833285&Signature=t9R%2FfAPvu9SfTSsuThuncunhM0E%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>7798</d:CameraID>
+                <d:Latitude>1.39748842</d:Latitude>
+                <d:Longitude>103.85400467</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/7798_1054_20200414105622_c58d6d.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833283&Signature=AGiJw73D5p0jawWhalmRHU0PLJA%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>8701</d:CameraID>
+                <d:Latitude>1.38647</d:Latitude>
+                <d:Longitude>103.74143</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/8701_1054_20200414105744_d88b5d.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833365&Signature=gilAwDYmEkfWbgvcmu4xXiznu0o%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>8702</d:CameraID>
+                <d:Latitude>1.39059</d:Latitude>
+                <d:Longitude>103.7717</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/8702_1054_20200414105741_2bc9dc.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833362&Signature=3mkB%2BsnmuLDAFxinfZRyHU%2FkDiY%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>8704</d:CameraID>
+                <d:Latitude>1.3899</d:Latitude>
+                <d:Longitude>103.74843</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/8704_1054_20200414105739_ebb2bb.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833361&Signature=I6CAIgeeLJr6tlWlJ3KHahJXFII%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>8706</d:CameraID>
+                <d:Latitude>1.3664</d:Latitude>
+                <d:Longitude>103.70899</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/8706_1031_20200414105739_a2bc7f.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833359&Signature=AFZ7cqwvV2aAPNZwRAaUCwtjnfs%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>9701</d:CameraID>
+                <d:Latitude>1.39466333</d:Latitude>
+                <d:Longitude>103.83474601</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/9701_1054_20200414105752_ce789b.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833373&Signature=o%2BUAT5LUskRvtQiI8lT2yBJE2CE%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>9702</d:CameraID>
+                <d:Latitude>1.39474081</d:Latitude>
+                <d:Longitude>103.81797086</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/9702_1053_20200414105750_e15687.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833372&Signature=v9tuNJwbei0SYZXpYN6gbhoesDI%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>9703</d:CameraID>
+                <d:Latitude>1.422857</d:Latitude>
+                <d:Longitude>103.773005</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/9703_1054_20200414105748_f593fe.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833370&Signature=QGEOiXLuunGsQGOHrL0gP3wU56g%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>9704</d:CameraID>
+                <d:Latitude>1.42214311</d:Latitude>
+                <d:Longitude>103.79542062</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/9704_1053_20200414105747_7767dd.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833368&Signature=bt5PwGsttoBzYS55qOZN%2FhiK8%2F0%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>9705</d:CameraID>
+                <d:Latitude>1.42627712</d:Latitude>
+                <d:Longitude>103.78716637</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/9705_1053_20200414105745_b1f326.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833367&Signature=KRQBL2vX7s1WErSlvBu6F4yaAkE%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()</id>
+        <category term="DataMall2.Models.TrafficImages" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <link rel="self" href="http://datamall2.mytransport.sg/ltaodataservice/Traffic-Imagesv2()" />
+        <title />
+        <updated>2020-4-14T2:58:53Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:CameraID>9706</d:CameraID>
+                <d:Latitude>1.41270056</d:Latitude>
+                <d:Longitude>103.80642712</d:Longitude>
+                <d:ImageLink>https://dm-traffic-camera-itsc.s3.amazonaws.com/2020-04-14/10-56/9706_1054_20200414105742_d7c5bc.jpg?x-amz-security-token=IQoJb3JpZ2luX2VjEFMaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAL8b2ENPv%2Fksu2Nn819w8DnQBTOIHZO0I1BxkuJz2FvEAiA5YmLJAY%2FB%2FBduQrqbDq5sbpBeLMHS3FxTH8FVJYJIoyqjAwhsEAEaDDM0MDY0NTM4MTMwNCIM98suS%2BJSa0aMkNaIKoADx3FxawS1bNV3G%2BvOYhv5Ubjl7FpqKcPJNiFu%2F5O0TiBz4wJTFSm4ErWA%2B%2F6a%2F9Z4SLbkJyZDjgJnFefZeswXL3kLGeIjK9tGSZmqq4bOKH9hIh2Oexf3GnAcY0TfX7JdqYzPO4rzdDO8aBrndQNaoNjp5dI81r9ThcyIyqPr8uklJwKARNTg8kuEg6Ji40zCnJrnh0AqzFbMk7SLrBuOJI3sySdZ5IN7qIZ0Q3Q3MNoX8fIUSKrBuiEqBSnLv%2FhYRFGXhf7bN7gesYKPShGBUtAlnqFKoVVsL8yEYt%2FkwRDEaRIAHPpVOkDN6a20iAYyoHet%2BAfYOfsXyXrkypSXwcNNeiD6GIUiF5xiEcMBZh2t6YpVPU6wiucYyXtIXG5O2QDqktOiwnV%2F8Cb5xcT2dbk3nAfWRievqjtt5PeXYqj%2FyArptCmax7ITDdixLI0IUa7bjFsqK98WAViqPAn3szTP9UPrp6NHEz7TbObJaAwdoo2%2ByP3fP7GEATzL%2BEsXMP7A1PQFOusBhYvngYYD2fRW3tZkIfpM2SaLDI2VVl2a5lmINqoojq05nIShDCL8sJ0OzfoPIVOSEAd%2B8PplV1RBqpxddDA8PEGfbccVHG29SWCDSsHqvsca9XjQafapCA6HkNdY8GUCjPxWvxhD%2FuQJDMpGy6qHvmA9XKsUUuOyw4bmfiZ2F8i9xDvvVOT6pzAM4oRcPMDWkJNa%2BQ3zszuvDtUKKt2QmqA4ew7hHJ99noNHFikCr70%2FJUbs3906VHslsOssWdU4bgM7lIRp2002Xg54dKTPgTVn2Cv9ucm0fqUtPFy99uhSRjVSfqiZQjTrpw%3D%3D&AWSAccessKeyId=ASIAU6UAMAS4B3GEG2WI&Expires=1586833364&Signature=xGJZyPUqGUKo5jtDkHbnZPGv4Nk%3D</d:ImageLink>
+            </m:properties>
+        </content>
+    </entry>
+</feed>
