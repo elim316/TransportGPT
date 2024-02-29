@@ -24,12 +24,12 @@ class ImagePipeline:
 
     def get_data(self, lat, long):
         resp = requests.get(self.url, headers=self.headers).json()["value"]
-        pool = p.ProcessingPool(nodes=self.n_core)
+        pool = p.ProcessingPool(nodes=self.n_core) 
         results = pool.amap(lambda x : self.process_camera_entry(x, lat, long), resp)
         pool.close()
         pool.join()
         pool.clear()
-        results = min(results, key=lambda x : x[0])
+        results = min(results.get(), key=lambda x : x[0])
         im = Image.open(requests.get(results[1], stream=True).raw)
         return im
     
