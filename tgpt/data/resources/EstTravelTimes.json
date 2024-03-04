@@ -1,0 +1,269 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#EstTravelTimes",
+    "value": [
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "AYE/MCE INTERCHANGE",
+            "EndPoint": "TELOK BLANGAH RD",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "TELOK BLANGAH RD",
+            "EndPoint": "LOWER DELTA RD",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "LOWER DELTA RD",
+            "EndPoint": "NORMANTON PARK",
+            "EstTime": 4
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "NORMANTON PARK",
+            "EndPoint": "NORTH BUONA VISTA RD",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "NORTH BUONA VISTA RD",
+            "EndPoint": "CLEMENTI RD",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "CLEMENTI RD",
+            "EndPoint": "WEST COAST RD",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "WEST COAST RD",
+            "EndPoint": "CLEMENTI AVE 6",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "CLEMENTI AVE 6",
+            "EndPoint": "JURONG TOWN HALL RD",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "JURONG TOWN HALL RD",
+            "EndPoint": "PENJURU RD",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "PENJURU RD",
+            "EndPoint": "JURONG PORT RD",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "JURONG PORT RD",
+            "EndPoint": "JURONG PIER RD",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "JURONG PIER RD",
+            "EndPoint": "PIONEER CIRCUS",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "PIONEER CIRCUS",
+            "EndPoint": "BENOI RD",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "BENOI RD",
+            "EndPoint": "AYE/PIE INTERCHANGE",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "AYE/PIE INTERCHANGE",
+            "EndPoint": "TUAS WEST RD",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "TUAS WEST RD",
+            "EndPoint": "TUAS WEST DRIVE",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 1,
+            "FarEndPoint": "TUAS CHECKPOINT",
+            "StartPoint": "TUAS WEST DRIVE",
+            "EndPoint": "TUAS CHECKPOINT",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "TUAS CHECKPOINT",
+            "EndPoint": "TUAS WEST RD",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "TUAS WEST RD",
+            "EndPoint": "AYE/PIE INTERCHANGE",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "AYE/PIE INTERCHANGE",
+            "EndPoint": "BENOI RD",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "BENOI RD",
+            "EndPoint": "PIONEER CIRCUS",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "PIONEER CIRCUS",
+            "EndPoint": "JALAN BOON LAY",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "JALAN BOON LAY",
+            "EndPoint": "YUAN CHING RD",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "YUAN CHING RD",
+            "EndPoint": "JURONG TOWN HALL RD",
+            "EstTime": 3
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "JURONG TOWN HALL RD",
+            "EndPoint": "CLEMENTI AVE 6",
+            "EstTime": 2
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "CLEMENTI AVE 6",
+            "EndPoint": "CLEMENTI AVE 2",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "CLEMENTI AVE 2",
+            "EndPoint": "CLEMENTI RD",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "CLEMENTI RD",
+            "EndPoint": "NORTH BUONA VISTA RD",
+            "EstTime": 3
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "NORTH BUONA VISTA RD",
+            "EndPoint": "PORTSDOWN RD",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "PORTSDOWN RD",
+            "EndPoint": "ALEXANDRA RD",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "ALEXANDRA RD",
+            "EndPoint": "LOWER DELTA RD",
+            "EstTime": 3
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "LOWER DELTA RD",
+            "EndPoint": "KEPPEL RD",
+            "EstTime": 1
+        },
+        {
+            "Name": "AYE",
+            "Direction": 2,
+            "FarEndPoint": "CITY",
+            "StartPoint": "KEPPEL RD",
+            "EndPoint": "AYE/MCE INTERCHANGE",
+            "EstTime": 2
+        }
+    ]
+}
