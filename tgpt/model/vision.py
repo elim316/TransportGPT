@@ -65,6 +65,8 @@ class TrafficTrackerYoloV3:
                     confs.append(conf)
                     bev_bounds.append([x, y, width, height])
         indices = cv2.dnn.NMSBoxes(bev_bounds, confs, self.threshold, 0.5)
+        if indices == ():
+            return 0, None
         indices = indices.flatten()
         count = 0
         for i in indices:
