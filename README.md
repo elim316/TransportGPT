@@ -5,6 +5,7 @@ Team TAB
 ## Getting started
 
 ## Project Structure
+```
 TransportGPT/
 │
 ├── data/                        # Contains data files or datasets as well as associated pipelines
@@ -37,3 +38,4 @@ TransportGPT/
 ├── .gitignore                   # Git ignore file
 ├── docker-compose.yml           # Docker Compose file
 └── DockerFile                   # Dockerfile for containerization
+```
