@@ -3,6 +3,7 @@ import os
 import pathos.multiprocessing as p
 import pprint
 from geocoding import Geocoder
+import re
 
 class EstTimePipeline:
 
@@ -23,25 +24,53 @@ class EstTimePipeline:
     
     def process_data(self):
         data = self.fetch_data()
+        return_data = []
         geo = Geocoder()
-        # pp = pprint.PrettyPrinter(indent=4, width=80, compact=False)
+        pp = pprint.PrettyPrinter(indent=4, width=80, compact=False, sort_dicts=False)
+        # pp.pprint(data)
+        # print(len(data['value']))
 
-        ''' To do: process start and end point and collect result as a dict??'''
+        for loc in data['value']:
+            start_loc = loc['StartPoint']
+            end_loc = loc['EndPoint']
+            if ("INTERCHANGE" in start_loc) or ("INTERCHANGE" in end_loc):
+                continue
+            geo.getLocationData(start_loc, end_loc, loc['EstTime'], return_data)
+            # pp.pprint(return_data)
+
+        pp.pprint(return_data)
+
         return None
 
 # Checking if I manage to pull correctly:
-# trying = EstTimePipeline()
-# trying.process_data()
+get_data = EstTimePipeline()
+get_data.process_data()
+
 
 # print(os.environ.get("LTA_KEY"))
-# data = trying.fetch_data()
+# data = get_data.fetch_data()
+
 # geo = Geocoder()
 # pp = pprint.PrettyPrinter(indent=4, width=80, compact=False)
 # pp.pprint(data)
 
-# end = geo.getLocation(data['value'][0]['EndPoint'])
+# print(len(data['value']))
 
-# print('\n')
+
+# for loc in data['value']:
+#     start_loc = loc['StartPoint']
+#     end_loc = loc['EndPoint']
+#     if ("INTERCHANGE" in start_loc) or ("INTERCHANGE" in end_loc):
+#         continue
+#     est_time = loc['EstTime']
+#     geo.getLocationData(loc['StartPoint'], loc['EndPoint'], loc['EstTime'])
+
+
+# print("\n \n")
+# print(data['value'][50]['StartPoint'])
+
+# end.type()
+# print(end)
 
 # pp.pprint(data['value'][0])
 
