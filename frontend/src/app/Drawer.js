@@ -14,6 +14,7 @@ import ListItemText from "@mui/material/ListItemText";
 import InboxIcon from "@mui/icons-material/MoveToInbox";
 import MailIcon from "@mui/icons-material/Mail";
 import {
+  Button,
   FormControl,
   IconButton,
   InputAdornment,
@@ -24,10 +25,31 @@ import MenuIcon from "@mui/icons-material/Menu";
 import SearchIcon from "@mui/icons-material/Search";
 
 export default function PermanentDrawerLeft(props) {
-  const { toggleDrawer, startPoint, setStartPoint, endPoint, setEndPoint } =
+  const { toggleDrawer, startPoint, setStartPoint, endPoint, setEndPoint, setFocusedTextField } =
     props;
+  const [isStartPointFocused, setIsStartPointFocused] = React.useState(false);
+  const [isEndPointFocused, setIsEndPointFocused] = React.useState(false);
 
   const handleClickSearch = (event) => {};
+  const handleStartPointFocus = () => {
+    setIsStartPointFocused(true);
+    setFocusedTextField("start")
+  };
+
+  const handleStartPointBlur = () => {
+    setIsStartPointFocused(false);
+    // setFocusedTextField()
+  };
+
+  const handleEndPointFocus = () => {
+    setIsEndPointFocused(true);
+    setFocusedTextField("end")
+  };
+
+  const handleEndPointBlur = () => {
+    setIsEndPointFocused(false);
+    // setFocusedTextField()
+  };
 
   return (
     <Box sx={{ width: 350 }} role="presentation">
@@ -47,8 +69,12 @@ export default function PermanentDrawerLeft(props) {
             </InputLabel>
             <OutlinedInput
               id="outlined-adornment-search"
-              value={startPoint}
-              onChange={(e)=>{setStartPoint(e.target.value)}}
+              value={startPoint || ''}
+              onChange={(e) => {
+                setStartPoint(e.target.value);
+              }}
+              onFocus={handleStartPointFocus}
+              onBlur={handleStartPointBlur}
               endAdornment={
                 <InputAdornment position="end">
                   <IconButton
@@ -71,8 +97,12 @@ export default function PermanentDrawerLeft(props) {
             </InputLabel>
             <OutlinedInput
               id="outlined-adornment-search"
-              value={endPoint}
-              onChange={(e)=>{setEndPoint(e.target.value)}}
+              value={endPoint || ''}
+              onChange={(e) => {
+                setEndPoint(e.target.value);
+              }}
+              onFocus={handleEndPointFocus}
+              onBlur={handleEndPointBlur}
               endAdornment={
                 <InputAdornment position="end">
                   <IconButton
@@ -87,6 +117,9 @@ export default function PermanentDrawerLeft(props) {
               label="End Point"
             />
           </FormControl>
+        </ListItem>
+        <ListItem disablePadding>
+          <Button>Generate a travel advisory</Button>
         </ListItem>
       </List>
       <Divider />
