@@ -2,3 +2,4 @@
 test.ipynb
 *__pycache__
 *yolov3.weights
+*/.DS_Store
