@@ -1,16 +1,33 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional
+from model import Generator
+from data import Retrieval
+from fastapi.responses import JSONResponse
+
+API_KEY = None
 
 app = FastAPI()
+model = Generator(API_KEY)
+retrieval = Retrieval()
 
 class Query(BaseModel):
     query: Optional[str]
     target_dest : str
     user_lat : float
     user_long : float
+    dest_lat : float
+    dest_long : float
 
-@app.post("/")
-async def generate(query : Query):
-    #TODO Add logic + integrate w model / frontend  
-    pass
+class GPTResponse(BaseModel):
+    resp : str
+
+@app.post("/", response_model=GPTResponse)
+async def generate(query : Query) -> GPTResponse:
+    context = retrieval.retrieve(
+        user_lat=query.user_lat,
+        user_long=query.user_long,
+        dest_lat=query.dest_lat,
+        dest_long=query.dest_long
+    )
+    return GPTResponse(resp=model.generate(context))
