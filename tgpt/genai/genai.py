@@ -9,6 +9,7 @@ from langchain_core.runnables import RunnableParallel, RunnablePassthrough
 from langchain_openai.chat_models import ChatOpenAI
 from langchain_openai.embeddings import OpenAIEmbeddings
 
+#setup openai.api_key = ""
 
 def get_completion(prompt, model="gpt-3.5-turbo"):
     messages = [{"role": "user", "content": prompt}]
