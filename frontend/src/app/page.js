@@ -7,12 +7,15 @@ import MenuIcon from "@mui/icons-material/Menu";
 
 export default function Home() {
   const [open, setOpen] = React.useState(false);
+  const [focusedTextField, setFocusedTextField] = React.useState();
   const [startPoint, setStartPoint] = React.useState();
   const [endPoint, setEndPoint] = React.useState();
 
   const toggleDrawer = (newOpen) => () => {
     setOpen(newOpen);
   };
+
+  // generate a travel advisory
 
   return (
     <main>
@@ -38,6 +41,8 @@ export default function Home() {
             endPoint={endPoint}
             setStartPoint={setStartPoint}
             setEndPoint={setEndPoint}
+            focusedTextField={focusedTextField}
+            setFocusedTextField={setFocusedTextField}
           />
         </Drawer>
         <Box
@@ -47,7 +52,11 @@ export default function Home() {
             bgcolor: "background.default",
           }}
         >
-          <Map />
+          <Map
+            setStartPoint={setStartPoint}
+            setEndPoint={setEndPoint}
+            focusedTextField={focusedTextField}
+          />
         </Box>
       </Box>
     </main>

@@ -6,7 +6,8 @@ const containerStyle = {
   height: "100vh",
 };
 
-function Map() {
+function Map(props) {
+  const { setStartPoint, setEndPoint, focusedTextField } = props;
   const { isLoaded } = useJsApiLoader({
     id: "google-map-script",
     googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY,
@@ -17,13 +18,16 @@ function Map() {
 
   const onLoad = React.useCallback(function callback(map) {
     // const bounds = new window.google.maps.LatLngBounds(center);
-    navigator.geolocation.getCurrentPosition((position) => {
-      const { latitude, longitude } = position.coords;
-      setCenter({ lat: latitude, lng: longitude });
-      map.panTo({ lat: latitude, lng: longitude });
-    }, (error) => {
-      console.error('Error getting user location:', error);
-    });
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        const { latitude, longitude } = position.coords;
+        setCenter({ lat: latitude, lng: longitude });
+        map.panTo({ lat: latitude, lng: longitude });
+      },
+      (error) => {
+        console.error("Error getting user location:", error);
+      }
+    );
 
     map.setZoom(15);
     setMap(map);
@@ -37,7 +41,14 @@ function Map() {
     const latitude = event.latLng.lat();
     const longitude = event.latLng.lng();
     console.log("Clicked location:", { latitude, longitude });
+    // check which textfield is focused and set the respective latlong
+    if (focusedTextField === "start") {
+      setStartPoint(`${latitude}, ${longitude}`);
+    } else if (focusedTextField === "end") {
+      setEndPoint(`${latitude}, ${longitude}`);
+    }
   };
+
 
   return isLoaded ? (
     <GoogleMap
