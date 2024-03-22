@@ -14,7 +14,8 @@ class Generator:
         template = PromptTemplate(
             input_variables=["cc", "ett", "tf"], template = """
             I am a driver on the road, generate a travel advisory for me given that there is a
-            {cc} amount of cars near me, I am {ett} away from my destination and the {tf} is high.
+            {cc} amount of cars near me, I am {ett} away from my destination and the 
+            expected traffic flow to my destination is {tf}.
             """
         )
         return template
