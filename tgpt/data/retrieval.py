@@ -1,6 +1,7 @@
 from image import ImagePipeline
 from EstTravelTimes import EstTimePipeline
 from trafficFlow import TrafficFlowPipeline
+from trafficIncidents import RoadworkPipeline, fetch_pipeline_data
 from ..model import TrafficTrackerYoloV3
 
 class Retrieval:
@@ -8,6 +9,7 @@ class Retrieval:
         self.img = ImagePipeline()
         self.ett = EstTimePipeline()
         self.tf = TrafficFlowPipeline()
+        self.ti = RoadworkPipeline(fetch_pipeline_data())
         self.yolo = TrafficTrackerYoloV3()
         self.threshold = threshold
     
@@ -24,8 +26,10 @@ class Retrieval:
         user_arr = [user_lat, user_long, dest_lat, dest_long]
         tf = self.tf.get_traffic_data(user_arr)
         ett = self.ett.process_data(user_arr)
+        ti = self.ti.get_nearest_roadwork(user_lat, user_long)
         return {
             "cc" : cc,
             "tf" : tf,
-            "ett" : ett
+            "ett" : ett,
+            "ti" : ti
         }
