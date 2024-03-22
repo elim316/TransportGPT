@@ -4,6 +4,11 @@ import pathos.multiprocessing as p
 import pprint
 from geocoding import Geocoder
 import re
+import numpy as np
+from sklearn.neighbors import NearestNeighbors
+import numpy as np
+from sklearn.neighbors import NearestNeighbors
+from geocoding import distance
 
 class EstTimePipeline:
 
@@ -22,13 +27,32 @@ class EstTimePipeline:
             print(f"Error fetching data: {e}")
             return None
     
-    def process_data(self):
+    def knn_model(self, trafficData, user):
+        route = np.array([[float(i['start_lat']), 
+                          float(i['start_lon']),
+                          float(i['end_lat']),
+                          float(i['end_lon'])] for i in trafficData])
+        knn = NearestNeighbors(n_neighbors=len(route))
+        knn.fit(route)
+
+        userlocation = np.array([[user[0], user[1], user[2], user[3]]])
+        distances, indices = knn.kneighbors(userlocation)
+
+        closest_route = trafficData[indices[0][0]]
+        user_dist = distance.distance((user[0], user[1]), (user[2], user[3])).km   
+        # print(user_dist)
+        # print(closest_route['dist'])
+        
+        # factor = user_dist/float(closest_route['dist'])
+        # print(factor)
+        return (closest_route['est_time'])
+
+
+    def process_data(self, user):
         data = self.fetch_data()
         return_data = []
         geo = Geocoder()
         pp = pprint.PrettyPrinter(indent=4, width=80, compact=False, sort_dicts=False)
-        # pp.pprint(data)
-        # print(len(data['value']))
 
         for loc in data['value']:
             start_loc = loc['StartPoint']
@@ -38,13 +62,14 @@ class EstTimePipeline:
             geo.getLocationData(start_loc, end_loc, loc['EstTime'], return_data)
             # pp.pprint(return_data)
 
-        pp.pprint(return_data)
-
-        return None
+        # pp.pprint(return_data) 
+        estTime = self.knn_model(return_data, user)
+        print(estTime)
+        return estTime
 
 # Checking if I manage to pull correctly:
 get_data = EstTimePipeline()
-get_data.process_data()
+print(get_data.process_data([1.3272336, 104,1.3117715, 102]))
 
 
 # print(os.environ.get("LTA_KEY"))
