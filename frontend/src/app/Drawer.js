@@ -1,9 +1,5 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
-import Drawer from "@mui/material/Drawer";
-import CssBaseline from "@mui/material/CssBaseline";
-import AppBar from "@mui/material/AppBar";
-import Toolbar from "@mui/material/Toolbar";
 import List from "@mui/material/List";
 import Typography from "@mui/material/Typography";
 import Divider from "@mui/material/Divider";
@@ -11,8 +7,6 @@ import ListItem from "@mui/material/ListItem";
 import ListItemButton from "@mui/material/ListItemButton";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
-import InboxIcon from "@mui/icons-material/MoveToInbox";
-import MailIcon from "@mui/icons-material/Mail";
 import {
   Button,
   FormControl,
@@ -25,30 +19,25 @@ import MenuIcon from "@mui/icons-material/Menu";
 import SearchIcon from "@mui/icons-material/Search";
 
 export default function PermanentDrawerLeft(props) {
-  const { toggleDrawer, startPoint, setStartPoint, endPoint, setEndPoint, setFocusedTextField } =
-    props;
-  const [isStartPointFocused, setIsStartPointFocused] = React.useState(false);
-  const [isEndPointFocused, setIsEndPointFocused] = React.useState(false);
+  const {
+    toggleDrawer,
+    startText,
+    setStartText,
+    endText,
+    setEndText,
+    setFocusedTextField,
+  } = props;
 
   const handleClickSearch = (event) => {};
-  const handleStartPointFocus = () => {
-    setIsStartPointFocused(true);
-    setFocusedTextField("start")
-  };
 
-  const handleStartPointBlur = () => {
-    setIsStartPointFocused(false);
-    // setFocusedTextField()
+  const handleStartPointFocus = () => {
+    setFocusedTextField("start");
+    console.log("start");
   };
 
   const handleEndPointFocus = () => {
-    setIsEndPointFocused(true);
-    setFocusedTextField("end")
-  };
-
-  const handleEndPointBlur = () => {
-    setIsEndPointFocused(false);
-    // setFocusedTextField()
+    setFocusedTextField("end");
+    console.log("end");
   };
 
   return (
@@ -69,12 +58,11 @@ export default function PermanentDrawerLeft(props) {
             </InputLabel>
             <OutlinedInput
               id="outlined-adornment-search"
-              value={startPoint || ''}
+              value={startText || ""}
               onChange={(e) => {
-                setStartPoint(e.target.value);
+                setStartText(e.target.value);
               }}
               onFocus={handleStartPointFocus}
-              onBlur={handleStartPointBlur}
               endAdornment={
                 <InputAdornment position="end">
                   <IconButton
@@ -97,12 +85,11 @@ export default function PermanentDrawerLeft(props) {
             </InputLabel>
             <OutlinedInput
               id="outlined-adornment-search"
-              value={endPoint || ''}
+              value={endText || ""}
               onChange={(e) => {
-                setEndPoint(e.target.value);
+                setEndText(e.target.value);
               }}
               onFocus={handleEndPointFocus}
-              onBlur={handleEndPointBlur}
               endAdornment={
                 <InputAdornment position="end">
                   <IconButton
@@ -119,25 +106,15 @@ export default function PermanentDrawerLeft(props) {
           </FormControl>
         </ListItem>
         <ListItem disablePadding>
-          <Button  sx={{ margin: "8px 16px" }} fullWidth variant="contained">Generate a travel advisory</Button>
+          <Button sx={{ margin: "8px 16px" }} fullWidth variant="contained">
+            Generate a travel advisory
+          </Button>
         </ListItem>
       </List>
       <Divider />
       <Box sx={{ margin: "8px 16px" }}>
         <Typography>Optimal Route</Typography>
       </Box>
-      {/* <List>
-        {["All mail", "Trash", "Spam"].map((text, index) => (
-          <ListItem key={text} disablePadding>
-            <ListItemButton>
-              <ListItemIcon>
-                {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
-              </ListItemIcon>
-              <ListItemText primary={text} />
-            </ListItemButton>
-          </ListItem>
-        ))}
-      </List> */}
     </Box>
   );
 }

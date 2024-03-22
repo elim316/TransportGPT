@@ -7,7 +7,15 @@ const containerStyle = {
 };
 
 function Map(props) {
-  const { startPoint, endPoint, setStartPoint, setEndPoint, focusedTextField } = props;
+  const {
+    startPoint,
+    endPoint,
+    setStartPoint,
+    setEndPoint,
+    setStartText,
+    setEndText,
+    focusedTextField,
+  } = props;
   const { isLoaded } = useJsApiLoader({
     id: "google-map-script",
     googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY,
@@ -15,10 +23,7 @@ function Map(props) {
 
   const [map, setMap] = React.useState(null);
   const [center, setCenter] = React.useState(null);
-  const [markers, setMarkers] = React.useState([
-    // { lat: startPoint, lng:startPoint },
-    // { lat: endPoint, lng:endPoint },
-  ]);
+  const [markers, setMarkers] = React.useState([]);
 
   useEffect(() => {
     if (startPoint) {
@@ -32,7 +37,7 @@ function Map(props) {
       });
     }
   }, [startPoint]);
-  
+
   useEffect(() => {
     if (endPoint) {
       // Parse endPoint string into separate latitude and longitude values
@@ -67,16 +72,54 @@ function Map(props) {
     setMap(null);
   }, []);
 
+  const handleGeocode = async (latitude, longitude) => {
+    try {
+      const apiKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
+      const url = `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=${apiKey}`;
+
+      const response = await fetch(url);
+      const data = await response.json();
+
+      if (data.status === "OK") {
+        const address = data.results[0].formatted_address;
+        console.log("Reverse geocoded address:", address);
+        return address;
+      } else {
+        console.error("Reverse geocoding failed:", data.status);
+        return ""; // or any default value
+      }
+    } catch (error) {
+      console.error("Error performing reverse geocoding:", error);
+      return ""; // or any default value
+    }
+  };
+
   const handleMapClick = (event) => {
     const latitude = event.latLng.lat();
     const longitude = event.latLng.lng();
     console.log("Clicked location:", { latitude, longitude });
-    // check which textfield is focused and set the respective latlong
     if (focusedTextField === "start") {
       setStartPoint(`${latitude}, ${longitude}`);
-      setMarkers
+      handleGeocode(latitude, longitude)
+        .then((address) => {
+          // Do something with the address
+          console.log(address);
+          setStartText(address)
+        })
+        .catch((error) => {
+          console.error(error);
+        });
     } else if (focusedTextField === "end") {
       setEndPoint(`${latitude}, ${longitude}`);
+      handleGeocode(latitude, longitude)
+        .then((address) => {
+          // Do something with the address
+          console.log(address);
+          setEndText(address)
+        })
+        .catch((error) => {
+          console.error(error);
+        });
     }
   };
 

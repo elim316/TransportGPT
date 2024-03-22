@@ -10,6 +10,8 @@ export default function Home() {
   const [focusedTextField, setFocusedTextField] = React.useState();
   const [startPoint, setStartPoint] = React.useState();
   const [endPoint, setEndPoint] = React.useState();
+  const [startText, setStartText] = React.useState("");
+  const [endText, setEndText] = React.useState("");
 
   const toggleDrawer = (newOpen) => () => {
     setOpen(newOpen);
@@ -37,10 +39,10 @@ export default function Home() {
         <Drawer open={open} onClose={toggleDrawer(false)} variant="persistent">
           <PermanentDrawerLeft
             toggleDrawer={toggleDrawer}
-            startPoint={startPoint}
-            endPoint={endPoint}
-            setStartPoint={setStartPoint}
-            setEndPoint={setEndPoint}
+            startText={startText}
+            endText={endText}
+            setStartText={setStartText}
+            setEndText={setEndText}
             focusedTextField={focusedTextField}
             setFocusedTextField={setFocusedTextField}
           />
@@ -57,6 +59,8 @@ export default function Home() {
             endPoint={endPoint}
             setStartPoint={setStartPoint}
             setEndPoint={setEndPoint}
+            setStartText={setStartText}
+            setEndText={setEndText}
             focusedTextField={focusedTextField}
           />
         </Box>
