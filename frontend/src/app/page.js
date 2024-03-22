@@ -53,6 +53,8 @@ export default function Home() {
           }}
         >
           <Map
+            startPoint={startPoint}
+            endPoint={endPoint}
             setStartPoint={setStartPoint}
             setEndPoint={setEndPoint}
             focusedTextField={focusedTextField}

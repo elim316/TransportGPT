@@ -119,7 +119,7 @@ export default function PermanentDrawerLeft(props) {
           </FormControl>
         </ListItem>
         <ListItem disablePadding>
-          <Button>Generate a travel advisory</Button>
+          <Button  sx={{ margin: "8px 16px" }} fullWidth variant="contained">Generate a travel advisory</Button>
         </ListItem>
       </List>
       <Divider />
