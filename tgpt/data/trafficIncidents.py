@@ -48,7 +48,7 @@ class RoadworkPipeline:
 
 # Fetch data from the pipeline
 def fetch_pipeline_data():
-    url = "http://datamall2.mytransport.sg/ltaodataservice/IncidentSet()"
+    url = "http://datamall2.mytransport.sg/ltaodataservice/IncidentSet"
     headers = {'AccountKey': os.environ.get("LTA_KEY"), "accept": "application/json"}
 
     try:
