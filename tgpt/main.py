@@ -5,10 +5,8 @@ from model import Generator
 from data import Retrieval
 from fastapi.responses import JSONResponse
 
-API_KEY = None
-
 app = FastAPI()
-model = Generator(API_KEY)
+model = Generator()
 retrieval = Retrieval()
 
 class Query(BaseModel):
