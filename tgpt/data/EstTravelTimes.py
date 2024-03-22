@@ -2,19 +2,19 @@ import requests
 import os
 import pathos.multiprocessing as p
 import pprint
-from geocoding import Geocoder
+from .geocoding import Geocoder
 import re
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
-from geocoding import distance
+from .geocoding import distance
 
 class EstTimePipeline:
 
     def __init__(self):
         self.url = "http://datamall2.mytransport.sg/ltaodataservice/EstTravelTimes"
-        self.headers = {'AccountKey' : os.environ.get("LTA_KEY"), "accept": "application/json"} 
+        self.headers = {'AccountKey' : "qUX98fKGT42VT5a4iV2aKw==", "accept": "application/json"} #os.environ.get("LTA_KEY")
         # for the header what should accept be, its also application/json right?
 
     def fetch_data(self):

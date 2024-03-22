@@ -1,7 +1,7 @@
-from image import ImagePipeline
-from EstTravelTimes import EstTimePipeline
-from trafficFlow import TrafficFlowPipeline
-from trafficIncidents import RoadworkPipeline, fetch_pipeline_data
+from .image import ImagePipeline
+from .EstTravelTimes import EstTimePipeline
+from .trafficFlow import TrafficFlowPipeline
+from .trafficIncidents import RoadworkPipeline, fetch_pipeline_data
 from ..model import TrafficTrackerYoloV3
 
 class Retrieval:

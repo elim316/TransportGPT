@@ -48,7 +48,7 @@ export default function PermanentDrawerLeft(props) {
       const [startLat, startLong] = startPoint.split(",").map(parseFloat);
       const [endLat, endLong] = endPoint.split(",").map(parseFloat);
 
-      const response = await fetch("/", {
+      const response = await fetch("http://127.0.0.1:8000/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
