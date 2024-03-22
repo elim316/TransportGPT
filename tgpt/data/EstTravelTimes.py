@@ -14,7 +14,7 @@ class EstTimePipeline:
 
     def __init__(self):
         self.url = "http://datamall2.mytransport.sg/ltaodataservice/EstTravelTimes"
-        self.headers = {'AccountKey' : "qUX98fKGT42VT5a4iV2aKw==", "accept": "application/json"} #os.environ.get("LTA_KEY")
+        self.headers = {'AccountKey' : os.environ.get("LTA_KEY"), "accept": "application/json"}
         # for the header what should accept be, its also application/json right?
 
     def fetch_data(self):
