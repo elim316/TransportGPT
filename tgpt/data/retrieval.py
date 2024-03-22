@@ -21,6 +21,11 @@ class Retrieval:
         
     def retrieve(self, user_lat, user_long, dest_lat, dest_long):
         cc = self.generate_cc(user_lat, user_long)
+        user_arr = [user_lat, user_long, dest_lat, dest_long]
+        tf = self.tf.get_traffic_data(user_arr)
+        ett = self.ett.process_data(user_arr)
         return {
-            "cc" : cc
+            "cc" : cc,
+            "tf" : tf,
+            "ett" : ett
         }
