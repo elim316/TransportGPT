@@ -10,8 +10,6 @@ model = Generator()
 retrieval = Retrieval()
 
 class Query(BaseModel):
-    query: Optional[str]
-    target_dest : str
     user_lat : float
     user_long : float
     dest_lat : float
