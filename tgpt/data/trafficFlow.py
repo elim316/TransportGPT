@@ -16,7 +16,6 @@ class TrafficFlowPipeline:
     def __init__(self):
         self.url = "http://datamall2.mytransport.sg/ltaodataservice/TrafficFlow"
         self.headers = {'AccountKey': "Ilc7MV9DS/2/kLy1NxaEzQ==", "accept": "application/json"}
-        # self.n_core = p.cpu_count() // 2
 
     def get_traffic_data_as_user(self, user):
         # lat, long = self.get_user_lat_long()
