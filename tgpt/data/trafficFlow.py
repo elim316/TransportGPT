@@ -73,6 +73,8 @@ if traffic_data is not None:
 else:
     print("Failed to retrieve traffic data.")
 
+# DELETING ON CODE CLEANUP
+
 # class TrafficFlowPipeline:
 #     def __init__(self):
 #         self.url = "http://datamall2.mytransport.sg/ltaodataservice/TrafficFlow"
@@ -135,12 +137,6 @@ else:
 
 #         # Return the distance
 #         return distance
-    
-#     #  def calculate_distance(self, lat1, lon1, lat2, lon2):
-#     #     # Implement the calculation of Euclidean distance between coordinates
-#     #     return np.linalg.norm(np.subtract(np.array([lat1, lon1]), np.array([lat2, lon2])))
-
-
 
 # # Example usage
 # traffic_pipeline = TrafficFlowPipeline()
