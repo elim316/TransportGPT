@@ -39,6 +39,8 @@ export default function Home() {
         <Drawer open={open} onClose={toggleDrawer(false)} variant="persistent">
           <PermanentDrawerLeft
             toggleDrawer={toggleDrawer}
+            startPoint={startPoint}
+            endPoint={endPoint}
             startText={startText}
             endText={endText}
             setStartText={setStartText}

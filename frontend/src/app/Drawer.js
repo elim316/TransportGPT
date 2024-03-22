@@ -21,12 +21,15 @@ import SearchIcon from "@mui/icons-material/Search";
 export default function PermanentDrawerLeft(props) {
   const {
     toggleDrawer,
+    startPoint,
+    endPoint,
     startText,
     setStartText,
     endText,
     setEndText,
     setFocusedTextField,
   } = props;
+  const [gptResponse, setGptResponse] = React.useState("");
 
   const handleClickSearch = (event) => {};
 
@@ -38,6 +41,36 @@ export default function PermanentDrawerLeft(props) {
   const handleEndPointFocus = () => {
     setFocusedTextField("end");
     console.log("end");
+  };
+
+  const handleGenerateTravelAdvisory = async () => {
+    try {
+      const [startLat, startLong] = startPoint.split(",").map(parseFloat);
+      const [endLat, endLong] = endPoint.split(",").map(parseFloat);
+
+      const response = await fetch("/", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          user_lat: startLat,
+          user_long: startLong,
+          dest_lat: endLat,
+          dest_long: endLong,
+        }),
+      });
+      if (response.ok) {
+        const data = await response.json();
+        // Handle the response data here
+        console.log(data);
+        setGptResponse(data);
+      } else {
+        console.error("Failed to generate travel advisory");
+      }
+    } catch (error) {
+      console.error("Error generating travel advisory:", error);
+    }
   };
 
   return (
@@ -106,7 +139,12 @@ export default function PermanentDrawerLeft(props) {
           </FormControl>
         </ListItem>
         <ListItem disablePadding>
-          <Button sx={{ margin: "8px 16px" }} fullWidth variant="contained">
+          <Button
+            sx={{ margin: "8px 16px" }}
+            fullWidth
+            variant="contained"
+            onClick={handleGenerateTravelAdvisory}
+          >
             Generate a travel advisory
           </Button>
         </ListItem>
@@ -114,6 +152,9 @@ export default function PermanentDrawerLeft(props) {
       <Divider />
       <Box sx={{ margin: "8px 16px" }}>
         <Typography>Optimal Route</Typography>
+      </Box>
+      <Box sx={{ margin: "8px 16px" }}>
+        <Typography>{gptResponse}</Typography>
       </Box>
     </Box>
   );
