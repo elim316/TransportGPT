@@ -1,0 +1,23 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#IncidentSet",
+    "value": [
+        {
+            "Type": "Roadwork",
+            "Latitude": 1.390923508426507,
+            "Longitude": 103.76543045742648,
+            "Message": "(12/2)14:42 Roadworks on KJE (towards BKE) before BKE Exit. Avoid lane 2."
+        },
+        {
+            "Type": "Roadwork",
+            "Latitude": 1.3228083288625956,
+            "Longitude": 103.7486545963207,
+            "Message": "(12/2)14:40 Roadworks on AYE (towards MCE) after Jurong Town Hall Exit. Avoid lane 1."
+        },
+        {
+            "Type": "Roadwork",
+            "Latitude": 1.2655918425973762,
+            "Longitude": 103.82208988201302,
+            "Message": "(12/2)14:37 Roadworks on Telok Blangah Road (towards Tuas) after Sentosa Gateway. Avoid right lane."
+        }
+    ]
+}
