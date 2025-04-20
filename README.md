@@ -1,5 +1,10 @@
 # TransportGPT – Generative AI for Traffic Management  
 *Developed for the NUS NCIS Innovation Challenge 2024*  
+![Innovation Challenge](https://img.shields.io/badge/Innovation-Challenge-orange)
+![Python](https://img.shields.io/badge/Built%20With-Python-blue)
+![LangChain](https://img.shields.io/badge/AI%20Framework-LangChain-green)
+![Vision Model](https://img.shields.io/badge/CV-YOLOv3-red)
+
 **Team TAB** – Elias Lim & collaborators
 
 TransportGPT is an AI-powered prototype designed to enhance traffic flow insights and communication through the use of **Generative AI**. It integrates real-time traffic data, computer vision, and predictive modeling to generate natural-language traffic summaries, identify congestion patterns, and assist motorists through smart navigation suggestions.
