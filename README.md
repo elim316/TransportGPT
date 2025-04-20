@@ -59,6 +59,7 @@ pip install -r requirements.txt
 
 ## Getting started
 run the command ```pip install -r requirements.txt```
+```
 
 ## Project Structure
 ```
