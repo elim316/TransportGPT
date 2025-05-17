@@ -11,6 +11,20 @@ TransportGPT is an AI-powered prototype designed to enhance traffic flow insight
 
 ---
 
+## Problem Statement
+Urban road networks face significant challenges in traffic management due to:
+- **Heterogeneous Data Silos**: Disparate data sources (cameras, sensors, GPS) with varying quality and formats.
+- **Reactive Systems**: Limited ability to predict short-term (30 mins to 12 hours) congestion or long-term infrastructure needs.
+- **Inefficient Communication**: Manual analysis delays actionable insights for drivers and authorities.
+
+## Objective
+Develop a **Generative AI-driven prototype** to:
+1. **Fuse Multi-Source Data**: Integrate real-time LTA DataMall feeds, traffic camera imagery (via YOLOv3), and geospatial coordinates.
+2. **Predict Traffic Conditions**: Identify near-term congestion and long-term infrastructure gaps using LLM-augmented analysis.
+3. **Deliver Actionable Insights**: Provide drivers and authorities with real-time routing suggestions and resource allocation strategies (e.g., traffic police deployment).
+
+---
+
 ## Project Overview
 
 - Analyse historical and live traffic data from the Land Transport Authority (LTA)
